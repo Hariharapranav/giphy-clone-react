@@ -2,12 +2,6 @@
 
 A simple Giphy Clone built using React.js, Vite, and the Giphy API. This project allows users to search for GIFs using keywords and view the trending GIFs directly from the Giphy platform.
 
-![Giphy Clone Screenshot](screenshot.png)
-
-## Demo
-
-You can check out the live demo of the Giphy Clone [https://giphy-clone-react-ten.vercel.app/](#).
-
 ## Features
 
 - Search for GIFs by keywords.
